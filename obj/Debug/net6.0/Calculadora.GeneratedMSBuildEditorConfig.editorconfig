@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Calculadora
+build_property.RootNamespace = Calculadora
+build_property.ProjectDir = c:\Users\emily\Desktop\Calculadora\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\emily\Desktop\Calculadora
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Cadastro/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cUmVnaXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Cadastro/UserRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cVXNlclJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Calculadora/Calculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Calculadora/ResultadoCalculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcUmVzdWx0YWRvQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/Dividir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXERpdmlkaXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/Multiplicar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXE11bHRpcGxpY2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/ResultadoDivisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFJlc3VsdGFkb0RpdmlzYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/ResultadoMultiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFJlc3VsdGFkb011bHRpcGxpY2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/ResultadoSomar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFJlc3VsdGFkb1NvbWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/ResultatoSubtrair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFJlc3VsdGF0b1N1YnRyYWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/Somar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFNvbWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/OperacaoMatematica/Subtrair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9NYXRlbWF0aWNhXFN1YnRyYWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/emily/Desktop/Calculadora/calculadora/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Y2FsY3VsYWRvcmFcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ow9jm63oss
+
+[c:/Users/emily/Desktop/Calculadora/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hz8u7nauxx
